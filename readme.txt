@@ -1,5 +1,5 @@
-a
-s
+b
+cos
 d
 f
 g

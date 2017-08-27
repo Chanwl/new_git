@@ -1,8 +1,16 @@
-Git is a distributed version control system.
-Git is free software.
-zengweiliang 
-abc
-def
-ghi
-Hello world!
-dev && fin
+a
+s
+d
+f
+g
+h
+j
+k
+r
+e
+w
+e
+r
+y
+u
+i
